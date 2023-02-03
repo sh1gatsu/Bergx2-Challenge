@@ -1,46 +1,32 @@
-# Getting Started with Create React App
+**The challenge**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Here is a list of what I have implemented:
+
+0) Rewrite the application to typescript if you can do it. ✔
+
+1) Sort fetched items and form 2 lists, ✔
+
+ - first list should stay untouched ✔
+
+ - children items in second list should be connected to their parents and rendered recursively (see list.jpg), create a function and form a tree for it ✔
+
+2) Try to optimize application as much as possible ✔
+
+3) There is only one action, add missing actions for loading/error while fetching items from the server ✔ 
+(probably 50/50 cause i implemented logic that i guess is right for loading/error states, but probably i need to do it using redux that i still dont know well, but I'll keep going in it :))
+
+4) Extra points for adding eslint ✔
+
+[DEMO LINK](https://sh1gatsu.github.io/Bergx2-Challenge/) 
+
+To run this app on your device, you need:
+1) check node version, it should be 14.18.2 !!!!!!!!
+(to watch your current version pls type 'node -v' in console)
+2) write npm i to install all needed packages !
+3) write npm start to start local server !
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+### `npm start, npm run deploy, npm install`
