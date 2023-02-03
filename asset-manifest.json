@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bergx2-Challenge/static/css/main.74aa849b.css",
+    "main.js": "/Bergx2-Challenge/static/js/main.8a817e0c.js",
+    "static/js/787.0a8755ad.chunk.js": "/Bergx2-Challenge/static/js/787.0a8755ad.chunk.js",
+    "index.html": "/Bergx2-Challenge/index.html",
+    "main.74aa849b.css.map": "/Bergx2-Challenge/static/css/main.74aa849b.css.map",
+    "main.8a817e0c.js.map": "/Bergx2-Challenge/static/js/main.8a817e0c.js.map",
+    "787.0a8755ad.chunk.js.map": "/Bergx2-Challenge/static/js/787.0a8755ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74aa849b.css",
+    "static/js/main.8a817e0c.js"
+  ]
+}
