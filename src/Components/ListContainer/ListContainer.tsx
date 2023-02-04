@@ -72,8 +72,8 @@ const ListContainer: React.FC<PropsFromRedux> = React.memo(
             <Loader />
           )
           : (
-            <div className='list-container__wrapper'>
-              <ItemsList items={sortedItems} />
+            <div className='list-container__wrapper' data-testid='wrapper'>
+              <ItemsList items={sortedItems}/>
               <ItemsList items={sortedItems} sortType={SortType.TREE} />
             </div>
           )}
