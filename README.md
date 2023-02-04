@@ -13,7 +13,7 @@ Here is a list of what I have implemented:
 2) Try to optimize application as much as possible ✔
 
 3) There is only one action, add missing actions for loading/error while fetching items from the server ✔ 
-(probably 50/50 cause i implemented logic that i guess is right for loading/error states, but probably i need to do it using redux that i still dont know well, but I'll keep going in it :))
+(probably 50/50 cause i implemented logic that i guess is right for loading/error states, but probably i should have to do it using redux that i still dont know well, but I'll keep going in it :))
 
 4) Extra points for adding eslint ✔
 
@@ -30,5 +30,6 @@ To run this app on your device, you need:
 ## Available Scripts
 
 In the project directory, you can run:
+
 
 ### `npm start, npm run deploy, npm install, npm test`
