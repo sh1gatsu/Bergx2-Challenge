@@ -17,6 +17,8 @@ Here is a list of what I have implemented:
 
 4) Extra points for adding eslint ✔
 
+5) Extra point for adding unit tests ✔ 
+
 [DEMO LINK](https://sh1gatsu.github.io/Bergx2-Challenge/) 
 
 To run this app on your device, you need:
@@ -29,4 +31,4 @@ To run this app on your device, you need:
 
 In the project directory, you can run:
 
-### `npm start, npm run deploy, npm install`
+### `npm start, npm run deploy, npm install, npm test`
